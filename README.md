@@ -1,3 +1,3 @@
 # firstprueba
 
-curso git
+curso git. Edicion 2
